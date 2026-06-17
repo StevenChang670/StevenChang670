@@ -16,6 +16,16 @@
 
 - **Chih-Hao Chang**, C.-H. Shen and Z. Zhou, "Gravitational Sommerfeld Effects: Formalism, Renormalization, and Perturbation to $\mathcal{O}(G^{10})$, " [arXiv:2604.14112 [hep-th]](https://arxiv.org/abs/2604.14112).
 
+
+## Talks
+
+- Amplitudes, Strong-Field Gravity and Resummation, Nordita, Apr. 16, 2026.
+
+- Amplitude Journal Club, UCLA, Mar. 12, 2026.
+
+- Amplitude Group Meeting, Uppsala University, Oct. 15, 2025.
+
+
 ## Work Experience
 
 - **National Taiwan University**  
