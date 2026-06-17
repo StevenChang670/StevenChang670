@@ -14,7 +14,7 @@
 
 - **Chih-Hao Chang**, P.-M. Ho, I-K. Lee and W.-H. Shao, "Towards Hamiltonian Formalism for String Field Theory and Nonlocality," [JHEP 09 (2025) 119](https://link.springer.com/article/10.1007/JHEP09(2025)119), [arXiv:2412.02577 [hep-th]](https://arxiv.org/abs/2412.02577).
 
-- **Chih-Hao Chang**, C.-H. Shen and Z. Zhou, "Gravitational Sommerfeld Effects: Formalism, Renormalization, and Perturbation to $\mathcal{O}(G^{10})$," [arXiv:2604.14112 [hep-th]](https://arxiv.org/abs/2604.14112).
+- **Chih-Hao Chang**, C.-H. Shen and Z. Zhou, "Gravitational Sommerfeld Effects: Formalism, Renormalization, and Perturbation to $\mathcal{O}(G^{10})$, " [arXiv:2604.14112 [hep-th]](https://arxiv.org/abs/2604.14112).
 
 ## Work Experience
 
